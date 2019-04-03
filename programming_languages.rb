@@ -27,7 +27,7 @@ def reformat_languages(languages)
     :javascript => {
       :type => "interpreted"
     }
- 
+
   }
 }
 This is the hash you will be operating on and reformatting, programmatically––meaning you will not simply re-write the hash in order to get the tests passing.
